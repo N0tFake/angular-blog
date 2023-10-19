@@ -12,7 +12,7 @@
 }
 
 .content__cover > img{
-  border:5px solid rgb(144, 144, 144);
+  border:5px solid black;
   border-radius: 5px;
   width: 500px;
   min-width: 500px;
@@ -20,10 +20,14 @@
 }
 
 .content__description{
-  margin-top: 15px;
+  width: 60%;
+  margin-top: 20px;
+  color: black;
 }
 
-.content__description > p{
+.content__voltar {
+  width: 60%;
   margin-top: 20px;
-  color: rgb(198, 197, 197);
+  display: flex;
+  justify-content: start;
 }

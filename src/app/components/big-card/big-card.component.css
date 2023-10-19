@@ -10,6 +10,7 @@
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
+  
 }
 
 .big-card__title > h1  {
@@ -22,7 +23,7 @@
 }
 
 .big-card__description > p > a {
-  color: grey;
+  color: white;
 }
 
 .big-card__photo > img{
